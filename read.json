@@ -1,8 +1,0 @@
-{
-  "beforeDate": "2017-03-27",
-  "limit": 1,
-  "next": "https://api.fitbit.com/1.2/user/-/sleep/list.json?offset=1&limit=1&sort=desc&beforeDate=2017-03-27",
-  "offset": 0,
-  "previous": "",
-  "sort": "desc"
-}
