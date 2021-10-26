@@ -1,0 +1,51 @@
+{
+  "activities": [
+    {
+      "activeDuration": 1280000,
+      "activityLevel": [
+        {
+          "minutes": 21,
+          "name": "sedentary"
+        },
+        {
+          "minutes": 0,
+          "name": "lightly"
+        },
+        {
+          "minutes": 0,
+          "name": "fairly"
+        },
+        {
+          "minutes": 0,
+          "name": "very"
+        }
+      ],
+      "activityName": "Elliptical",
+      "activityTypeId": 20047,
+      "calories": 22,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2021-10-14/2021-10-14/1min/time/14:47/15:08.json",
+      "duration": 1280000,
+      "hasActiveZoneMinutes": true,
+      "lastModified": "2021-10-19T07:55:42.000Z",
+      "logId": 43652148251,
+      "logType": "auto_detected",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1280000,
+      "originalStartTime": "2021-10-14T14:47:19.000+09:00",
+      "startTime": "2021-10-14T14:47:19.000+09:00",
+      "steps": 0
+    }
+  ],
+  "pagination": {
+    "afterDate": "2021-10-01",
+    "limit": 10,
+    "next": "",
+    "offset": 0,
+    "previous": "",
+    "sort": "desc"
+  }
+}

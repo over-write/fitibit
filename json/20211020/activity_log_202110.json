@@ -1,0 +1,92 @@
+{
+  "activities": [
+    {
+      "activeDuration": 1383000,
+      "activityLevel": [
+        {
+          "minutes": 3,
+          "name": "sedentary"
+        },
+        {
+          "minutes": 20,
+          "name": "lightly"
+        },
+        {
+          "minutes": 0,
+          "name": "fairly"
+        },
+        {
+          "minutes": 0,
+          "name": "very"
+        }
+      ],
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 112,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2021-10-15/2021-10-15/1min/time/20:03/20:26.json",
+      "duration": 1383000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2021-10-19T06:42:06.000Z",
+      "logId": 43651399003,
+      "logType": "auto_detected",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1383000,
+      "originalStartTime": "2021-10-15T20:03:34.000+09:00",
+      "startTime": "2021-10-15T20:03:34.000+09:00",
+      "steps": 1486,
+      "tcxLink": "https://api.fitbit.com/1/user/-/activities/43651399003.tcx"
+    },
+    {
+      "activeDuration": 1382000,
+      "activityLevel": [
+        {
+          "minutes": 0,
+          "name": "sedentary"
+        },
+        {
+          "minutes": 2,
+          "name": "lightly"
+        },
+        {
+          "minutes": 9,
+          "name": "fairly"
+        },
+        {
+          "minutes": 12,
+          "name": "very"
+        }
+      ],
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 138,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2021-10-14/2021-10-14/1min/time/14:46/15:09.json",
+      "duration": 1382000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2021-10-15T00:06:20.000Z",
+      "logId": 43556990266,
+      "logType": "auto_detected",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1382000,
+      "originalStartTime": "2021-10-14T14:46:34.000+09:00",
+      "startTime": "2021-10-14T14:46:34.000+09:00",
+      "steps": 1816,
+      "tcxLink": "https://api.fitbit.com/1/user/-/activities/43556990266.tcx"
+    }
+  ],
+  "pagination": {
+    "afterDate": "2021-10-01",
+    "limit": 10,
+    "next": "",
+    "offset": 0,
+    "previous": "",
+    "sort": "desc"
+  }
+}

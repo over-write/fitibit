@@ -1,0 +1,11 @@
+{
+  "activities": [],
+  "pagination": {
+    "afterDate": "2021-10-01",
+    "limit": 10,
+    "next": "",
+    "offset": 0,
+    "previous": "",
+    "sort": "desc"
+  }
+}
